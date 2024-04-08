@@ -1,0 +1,10 @@
+name: 17
+channels:
+  - defaults
+dependencies:
+ - python=3.12.1 
+ - numpy
+ - pandas 
+ - pip
+ - scipy 
+ - tensorflow
